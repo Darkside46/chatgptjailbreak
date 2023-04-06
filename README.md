@@ -1,5 +1,5 @@
 # chatgptjailbreak
-this code is good at now 
+this code is good at now  
 
 
 
